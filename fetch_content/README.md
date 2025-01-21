@@ -4,7 +4,9 @@
 
 #### Usage:
 
-`./fetch_content.sh -p <search_dir> -e <extensions (comma-separated)> [-o output_file]`
+```
+./fetch_content.sh -p <search_dir> -e <extensions (comma-separated)> [-o output_file]
+```
 
 #### where
 - `<search_dir>` is the target directory path.
