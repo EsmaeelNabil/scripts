@@ -2,7 +2,9 @@
 
 #### Usage:
 
-`./root_checker.sh
+```
+./root_checker.sh
+```
 
 #### where
 - You have a connected device/emulator
