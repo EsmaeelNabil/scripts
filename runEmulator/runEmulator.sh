@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Source the install_fzf.sh script to ensure fzf is installed
-source "$(dirname "$0")/installPreqs.sh"
 
 # Default path to Android emulator
 DEFAULT_EMULATOR_PATH="$HOME/Library/Android/sdk/emulator/emulator"
